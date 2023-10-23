@@ -41,6 +41,7 @@ public class ProInstanceToolsEditorPlugin : ModuleRules
 				"SlateCore",
                 "UnrealEd",
                 "Projects",
+                "PlacementMode",
                 "ProInstanceToolsPlugin",
 				// ... add private dependencies that you statically link with here ...	
 			}

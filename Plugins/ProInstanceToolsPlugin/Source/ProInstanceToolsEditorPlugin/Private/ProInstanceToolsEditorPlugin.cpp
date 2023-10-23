@@ -1,7 +1,7 @@
 // Copyright 2022 Dmitry Karpukhin. All Rights Reserved.
 
 #include "ProInstanceToolsEditorPlugin.h"
-#include "PlacementMode/Public/IPlacementModeModule.h"
+#include "IPlacementModeModule.h"
 #include "Interfaces/IPluginManager.h"
 #include "Runtime/Launch/Resources/Version.h"
 #include "Styling/SlateStyleRegistry.h"
